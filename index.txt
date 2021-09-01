@@ -1,2 +1,3 @@
 Código da página principal.
 Adicionado o link para login.
+Inclusão de galeria de fotos.
